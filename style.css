@@ -1,0 +1,40 @@
+.italy {
+    font-style: italic;
+}
+#highlighter {
+    background-color: yellow;
+}
+#six {
+    font: cursive;
+}
+#antigrav {
+    margin-left: 100px;
+}
+#yellow {
+    color: yellow;
+}
+#purple {
+    color: purple;
+}
+#green {
+    color: green;
+}
+#best {
+    margin-left: 15px;
+    padding-left: 5px;
+}
+h1 {
+    font: monospace;
+}
+h2 {
+    font: monospace;
+}
+p {
+    font: monospace;
+}
+div {
+    font: monospace;
+}
+iframe {
+    font: monospace;
+}
